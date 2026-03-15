@@ -1,0 +1,7 @@
+ scapy
+flask
+networkx
+scikit-learn
+joblib
+pandas
+flask-cors
